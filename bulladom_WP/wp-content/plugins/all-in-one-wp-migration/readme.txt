@@ -4,15 +4,9 @@ Tags: move, transfer, copy, migrate, backup, clone, restore, db migration, wordp
 Requires at least: 3.3
 Tested up to: 5.2
 Requires PHP: 5.2.17
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Stable tag: 6.95
-=======
-Stable tag: 6.94
->>>>>>> isa
-=======
-Stable tag: 6.94
->>>>>>> Aina
+
 License: GPLv2 or later
 
 Move, transfer, copy, migrate, and backup a site with 1-click. Quick, easy, and reliable.
@@ -118,6 +112,7 @@ All-in-One WP Migration **asks for your consent** to collect **requester's email
 == Changelog ==
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 = 6.95 =
 **Changed**
 
@@ -127,6 +122,8 @@ All-in-One WP Migration **asks for your consent** to collect **requester's email
 >>>>>>> isa
 =======
 >>>>>>> Aina
+=======
+>>>>>>> Max
 = 6.94 =
 **Fixed**
 
