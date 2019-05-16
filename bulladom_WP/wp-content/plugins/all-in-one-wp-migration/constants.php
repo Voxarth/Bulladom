@@ -36,10 +36,14 @@ define( 'AI1WM_DEBUG', false );
 // = Plugin Version =
 // ==================
 <<<<<<< HEAD
+<<<<<<< HEAD
 define( 'AI1WM_VERSION', '6.95' );
 =======
 define( 'AI1WM_VERSION', '6.94' );
 >>>>>>> isa
+=======
+define( 'AI1WM_VERSION', '6.94' );
+>>>>>>> Aina
 
 // ===============
 // = Plugin Name =

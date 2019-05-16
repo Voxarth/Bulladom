@@ -164,6 +164,7 @@ class Ai1wm_Export_Controller {
 
 	public static function cleanup() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// // Iterate over storage directory
 		// $iterator = new Ai1wm_Recursive_Directory_Iterator( AI1WM_STORAGE_PATH );
 
@@ -198,6 +199,8 @@ class Ai1wm_Export_Controller {
 		// 	Ai1wm_Directory::delete( $folder );
 		// }
 =======
+=======
+>>>>>>> Aina
 		// Iterate over storage directory
 		$iterator = new Ai1wm_Recursive_Directory_Iterator( AI1WM_STORAGE_PATH );
 
@@ -231,6 +234,9 @@ class Ai1wm_Export_Controller {
 		foreach ( $folders as $folder ) {
 			Ai1wm_Directory::delete( $folder );
 		}
+<<<<<<< HEAD
 >>>>>>> isa
+=======
+>>>>>>> Aina
 	}
 }

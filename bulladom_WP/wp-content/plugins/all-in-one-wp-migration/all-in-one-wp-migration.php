@@ -6,10 +6,14 @@
  * Author: ServMask
  * Author URI: https://servmask.com/
 <<<<<<< HEAD
+<<<<<<< HEAD
  * Version: 6.95
 =======
  * Version: 6.94
 >>>>>>> isa
+=======
+ * Version: 6.94
+>>>>>>> Aina
  * Text Domain: all-in-one-wp-migration
  * Domain Path: /languages
  * Network: True

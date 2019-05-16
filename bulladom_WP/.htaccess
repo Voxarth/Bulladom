@@ -1,12 +1,27 @@
 
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteBase /clonegit/Bulladom/bulladom_WP/
-RewriteRule ^index\.php$ - [L]
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /clonegit/Bulladom/bulladom_WP/index.php [L]
-</IfModule>
 
+RewriteEngine On
+<<<<<<< HEAD
+RewriteBase /clonegit/Bulladom/bulladom_WP/
+=======
+
+RewriteBase /Bulladom/bulladom_WP/
+
+>>>>>>> Aina
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+<<<<<<< HEAD
+RewriteRule . /clonegit/Bulladom/bulladom_WP/index.php [L]
+=======
+
+RewriteRule . /Bulladom/bulladom_WP/index.php [L]
+
+>>>>>>> Aina
+</IfModule>
 # END WordPress
+
